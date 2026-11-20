@@ -1,0 +1,6 @@
+{
+  "name": "Sigorta Teklif ve Poliçe Takip Portalı",
+  "description": "Sigorta acenteleri için teklif, poliçe, çapraz satış ve takip yönetimi portalı.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
